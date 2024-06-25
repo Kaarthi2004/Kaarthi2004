@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 - I'm Currently graduating B.E - Computer Science and Design in Kongu Engineering College, Erode.
 - I'm a passionate Software Engineer with expertise in a variety of programming languages and technologies. My coding journey has equipped me with a strong foundation in data structures and algorithms, as well as full-stack web development.
 
-- ### Programming Languages:
+### Programming Languages:
 - **C**
 - **Java**
 - **Python**
 
-- ### Web Development Skills:
+### Web Development Skills:
 - **MERN STACK** (MongoDB, Express.js, React.js, Node.js)
 - **Tailwind CSS**
 - **Material UI**
