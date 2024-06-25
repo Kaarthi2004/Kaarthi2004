@@ -1,20 +1,6 @@
 ## Hi there, I'm Ranga Kaarthi 👋
 
-<!--
-**Kaarthi2004/Kaarthi2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-- I'm Currently graduating B.E - Computer Science and Design in Kongu Engineering College, Erode.
+- I'm currently graduating B.E - Computer Science and Design at Kongu Engineering College, Erode.
 - I'm a passionate Software Engineer with expertise in a variety of programming languages and technologies. My coding journey has equipped me with a strong foundation in data structures and algorithms, as well as full-stack web development.
 
 ### Programming Languages:
@@ -33,10 +19,15 @@ I have also ventured into the field of machine learning, where I have worked on 
 - **YOLO for Peacock Detection**
 - **Dark Web Crawler Bot** (built using Python)
 
-
-
 Feel free to explore my repositories to see more of my work and contributions. I'm always excited to collaborate on interesting projects and learn new things. Let's connect and build something amazing together!
 
 ---
+
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-handle)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github-username)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 Thank you for visiting my GitHub profile. Have a great day!
